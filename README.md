@@ -190,15 +190,3 @@ PRs and suggestions are welcome!
 ## 📜 License
 
 MIT License. Use freely for learning or integration.
-
-```
-
----
-
-Let me know if you want:
-- Markdown badges (build, license, etc.)
-- Docker instructions
-- DB user saving + entity setup included
-
-I can tailor this further!
-```
