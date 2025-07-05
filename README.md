@@ -117,6 +117,9 @@ Visit: [http://localhost:9090](http://localhost:9090)
 
 <img width="1440" alt="Screenshot 2025-07-05 at 3 52 18 PM" src="https://github.com/user-attachments/assets/f3b0c509-319a-41ef-81be-8205a5b3579f" />
 
+<img width="1440" alt="Screenshot 2025-07-05 at 11 29 59 PM" src="https://github.com/user-attachments/assets/0392149a-ddf8-4f81-8393-92504d65618b" />
+
+
 ---
 
 ## 📄 API Endpoints
@@ -134,6 +137,9 @@ Visit: [http://localhost:9090](http://localhost:9090)
 
 <img width="1440" alt="Screenshot 2025-07-05 at 3 52 35 PM" src="https://github.com/user-attachments/assets/b95e8180-9e1a-443a-866c-685e86e07ceb" />
 
+<img width="1440" alt="Screenshot 2025-07-05 at 11 30 08 PM" src="https://github.com/user-attachments/assets/b7a5524c-9a99-4679-9dbc-30d46b50af08" />
+
+
 ```json
 {
   "login": "siddroykapoor",
@@ -142,6 +148,7 @@ Visit: [http://localhost:9090](http://localhost:9090)
   "email": "siddharth@example.com"
 }
 ```
+<img width="1440" alt="Screenshot 2025-07-05 at 11 30 25 PM" src="https://github.com/user-attachments/assets/9583bb68-b357-447e-a187-e8f193421b8b" />
 
 ---
 
