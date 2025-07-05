@@ -1,7 +1,6 @@
 # Social-SSO-Login
 SSO login through Github &amp; Google
 
-````markdown
 # 🛡️ Social Login with GitHub (Spring Boot + OAuth2)
 
 This project demonstrates how to integrate **GitHub OAuth2 login** into a Spring Boot application, fetch user details, and display them on a simple HTML frontend.
