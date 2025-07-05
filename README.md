@@ -90,6 +90,9 @@ spring:
 
 Visit: [http://localhost:9090](http://localhost:9090)
 
+<img width="1440" alt="Screenshot 2025-07-05 at 3 52 18 PM" src="https://github.com/user-attachments/assets/f3b0c509-319a-41ef-81be-8205a5b3579f" />
+
+
 ---
 
 ## 📄 API Endpoints
@@ -103,6 +106,11 @@ Visit: [http://localhost:9090](http://localhost:9090)
 ---
 
 ## 🧑‍💻 Example Response from `/user`
+
+<img width="1440" alt="Screenshot 2025-07-05 at 3 52 35 PM" src="https://github.com/user-attachments/assets/b95e8180-9e1a-443a-866c-685e86e07ceb" />
+
+<img width="1440" alt="Screenshot 2025-07-05 at 3 52 43 PM" src="https://github.com/user-attachments/assets/27052331-98b2-48a4-aebc-b469018b8d2f" />
+
 
 ```json
 {
